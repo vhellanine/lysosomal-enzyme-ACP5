@@ -57,7 +57,7 @@ The downloaded ACP5 protein sequence contains **325 amino acids**. The sequence 
 
 ### 4.2 Amino Acid Composition
 
-![ACP5 amino acid composition](figures/ACP5_amino_acid_composition.png)
+![ACP5 amino acid composition](Figures/ACP5_amino_acid_composition.png)
 
 **Figure 1. Amino acid composition of the human ACP5 protein.** The graph shows the number of occurrences of each standard amino acid in the 325-amino-acid sequence.
 
