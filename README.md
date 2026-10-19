@@ -4,7 +4,7 @@
 
 - **Name:** Junavhel Jane B. Olaguir
 - **Course:** BS Biology
-- **Year and Section:** 3rd Year – [Insert Section]
+- **Year and Section:** 3rd Year – A
 - **Subject:** Cell and Molecular Biology Laboratory
 - **Activity:** Exploring Lysosomal Enzymes Using NCBI and R
 
@@ -69,7 +69,7 @@ These results describe the amino acid composition of the downloaded protein prec
 
 ### 4.3 Potential N-Glycosylation Motifs
 
-![ACP5 potential N-glycosylation motifs](figures/ACP5_potential_N_glycosylation.png)
+![ACP5 potential N-glycosylation motifs](Figures/ACP5_potential_N_glycosylation.png)
 
 **Figure 2. Positions of potential N-glycosylation motifs in the human ACP5 protein.** The orange points indicate the positions of the detected motifs along the protein sequence.
 
